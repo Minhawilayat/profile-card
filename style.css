@@ -71,6 +71,9 @@ border:3px solid #fff ;
     font-weight: 400;
 
 }
+.media-buttons a:hover{
+    transform: scale(1.2);
+}
 .media-buttons{
 display: flex;
 align-items: center;
@@ -112,7 +115,7 @@ transition:all 0.3s ease;
 background-color: #4070f4;
 }
 .button:hover{
-    background-color: #8e4bf1;
+    background-color: #4bebf1;
 }
 .analytics{
     display: flex;
